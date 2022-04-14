@@ -23,11 +23,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github: mickmis
-    linkedin: mickmis
-    twitter: mick_mis
     email: mickael@mm-ing.ch
+    linkedin: mickmis
     telegram: https://t.me/mickmis
+    # github: mickmis
+    # twitter: mick_mis
 
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
