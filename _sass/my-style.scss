@@ -1,0 +1,33 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+
+.tricolumns {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tricolumn {
+  width: 17rem;
+
+  h3{
+    margin-top: 1rem;
+  }
+}
+
+// display of logo bigger and in original square
+.avatar {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 0;
+}
