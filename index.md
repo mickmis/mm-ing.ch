@@ -1,13 +1,10 @@
 ---
 layout: page
-title: M. Misbach Ingénieur-Conseil, Ing. dipl. EPF
-sitemap: false
+title: MM Ingénieur-Conseil
 ---
-
-I am an independent consulting engineer based next to Lausanne in Switzerland offering
-[engineering and consulting services](/services/), both on-site and remotely.
-
-[Get in touch for a quote or to inquire about my services.](/contact/)
+    
+Consulting engineer offering services in software engineering, information security and IT solutions to businesses and
+individuals in Switzerland and remotely anywhere in the world.
 
 ## Areas of expertise
 

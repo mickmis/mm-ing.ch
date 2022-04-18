@@ -20,15 +20,17 @@
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: M. Misbach
+title: MM Ingénieur-Conseil
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Independent consulting engineer with expertise in software engineering, information security and IT solutions.
+  M. Misbach Ingénieur-Conseil, Ing. dipl. EPF is an independent consulting engineer with expertise in software
+  engineering, information security and IT solutions.
+  software and security TODO
 
 # A shorter description for the sidebar.
-tagline: Consulting Engineer, Ing. dipl. EPF
+tagline: Software engineering, information security and IT solutions.
 
 # A list of keywords for your blog
 keywords: [software engineer, software architect, switzerland, suisse, lausanne, geneva, romandie, suisse romande,
@@ -38,7 +40,7 @@ keywords: [software engineer, software architect, switzerland, suisse, lausanne,
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/img/logo_v3_white_square.png
+logo: /assets/img/logo_v4_white.svg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -52,8 +54,8 @@ author:
 menu:
 #  - title: Services
 #    url:   /services/
-#  - title: References
-#    url:   /references/
+  - title: References
+    url:   /references/
   - title: Contact
     url:   /contact/
 
@@ -62,11 +64,11 @@ menu:
 legal:
   - title:             CONTACT
     url:               /contact/
-  - title:             LEGAL NOTICE
+  - title:             LEGAL
     url:               /legal/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2022 M. Misbach Ingénieur-Conseil, Ing. dipl. EPF
+copyright: © 2022 M. Misbach Ingénieur-Conseil, Ing. Dipl. EPF
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -246,7 +248,7 @@ hydejack:
   no_theme_color: false
 
   # Disable the breadcrumbs above the title
-  no_breadcrumbs: true
+  no_breadcrumbs: false
 
   # Set to `true` when building with the `--lsi` option
   use_lsi: true
@@ -276,7 +278,7 @@ hydejack:
     dynamic: true
 
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon: true
+    icon: false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
