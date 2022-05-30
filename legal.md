@@ -4,7 +4,7 @@ title: Legal Notice
 sitemap: false
 ---
 
-## M. Misbach Ingénieur-Conseil, Ing. Dipl. EPF
+## M. Misbach Ingénieur-Conseil, Ing. dipl. EPF
 Registered sole proprietorship  
 **IDE** CHE-294.506.207  
 **TVA** CHE-294.506.207 TVA  
