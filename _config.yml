@@ -25,17 +25,18 @@ title: MM Ingénieur-Conseil
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  M. Misbach Ingénieur-Conseil, Ing. dipl. EPF is an independent consulting engineer with expertise in software
-  engineering, information security and IT solutions.
-  software and security TODO
+  MM Ingénieur-Conseil offers generalist consulting engineer services in software systems and their security to 
+  businesses and individuals in Switzerland.
 
 # A shorter description for the sidebar.
-tagline: Software engineering, information security and IT solutions.
+# tagline: Software engineering, information security and IT solutions.
+tagline: Software systems and their security.
 
 # A list of keywords for your blog
-keywords: [software engineer, software architect, switzerland, suisse, lausanne, geneva, romandie, suisse romande,
-          freelance, keycloak, iam, identity and access management, ingénieur, information security, IT security,
-          cybersecurity, IT solutions, sécurité informatique]
+keywords: [software engineer, information security, IT solutions,
+           software architect, IT security, cybersecurity,
+           keycloak, iam, identity and access management,
+           switzerland, lausanne, geneva, romandie]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -52,8 +53,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-#  - title: Services
-#    url:   /services/
+  - title: Services
+    url:   /services/
   - title: References
     url:   /references/
   - title: Contact
