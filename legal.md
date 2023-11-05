@@ -8,7 +8,7 @@ sitemap: false
 Registered sole proprietorship  
 **IDE** CHE-294.506.207  
 **TVA** CHE-294.506.207 TVA  
-**Postal address** Rue de l'Avenir 25A, CH-1020 Renens
+**Postal address** Chemin de la Seymaz 49, CH-1253 Vandœuvres
 
 ## Contact information
 [Mickaël Misbach](mailto:mickael@mm-ing.ch)

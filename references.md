@@ -6,22 +6,6 @@ title: References
 <div class="tricolumns">
 
 <div class="tricolumn" markdown="1">
-[![Logo Orbitalize](/assets/img/references/logo-orbitalize.png){:loading="lazy" width="256" height="256"}](https://orbitalize.com/){:target="_blank"}
-</div>
-
-<div class="tricolumn" markdown="1">
-[![Logo Skyguide](/assets/img/references/logo-skyguide.png){:loading="lazy" width="256" height="256"}](https://skyguide.ch/){:target="_blank"}
-</div>
-
-<div class="tricolumn" markdown="1">
-[![Logo Skysoft](/assets/img/references/logo-skysoft.png){:loading="lazy" width="256" height="256"}](https://www.skysoft-atm.com/){:target="_blank"}
-</div>
-
-</div>
-
-<div class="tricolumns">
-
-<div class="tricolumn" markdown="1">
 [![Logo EPFL](/assets/img/references/logo-epfl.png){:loading="lazy" width="256" height="256"}](https://epfl.ch/){:target="_blank"}
 </div>
 
