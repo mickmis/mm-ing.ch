@@ -3,7 +3,7 @@ layout: page
 title: MM Ingénieur-Conseil
 ---
 
-MM Ingénieur-Conseil, based in Lausanne (Switzerland), offers generalist consulting engineer services in software 
+MM Ingénieur-Conseil, based in Geneva (Switzerland), offers generalist consulting engineer services in software 
 systems and their security to businesses and individuals.
 
 ## Areas of expertise
